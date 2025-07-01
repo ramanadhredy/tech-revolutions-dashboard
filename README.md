@@ -83,5 +83,6 @@ Hover or click to learn more about each revolution
 Explore the table for real-world examples
 
 **📌 Final Thought**
+
 Technology isn’t just changing — it’s accelerating.
 This dashboard shows how far we’ve come… and how fast we’re moving forward.
