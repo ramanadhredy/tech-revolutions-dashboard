@@ -25,8 +25,8 @@ It’s not just a dashboard. It’s a data-powered timeline of human creativity.
 
 **📁 What’s Included**
 
-Technological_Revolutions_Final.csv	Editable dataset of historical + future tech
-technological_revolutions_dashboard.pbix	Interactive Power BI file with visuals & slicers
+Technological_Revolutions_Final.csv      -->	Editable dataset of historical + future tech
+technological_revolutions_dashboard.pbix -->	Interactive Power BI file with visuals & slicers
 
 100% done in Power BI
 
