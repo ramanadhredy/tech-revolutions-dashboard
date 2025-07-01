@@ -63,29 +63,6 @@ Real-world tech examples like Tesla, ChatGPT, NASA
 Easy to search, export, or explore
 
 
-**📄 Dataset Overview**
-
-Column	                Description
-
-Invention	              The innovation name (e.g., Wheel, Electricity, AI)
-
-Year	                  Year of invention or forecasted breakthrough
-
-Era	                    Ancient, Industrial, Modern, or Future
-
-Category	              AI, Energy, Transport, Communication, etc.
-
-Impact_Level	          Scale of 1–5 based on significance
-
-Type	                  Past / Predicted / Speculative
-
-Status	                Achieved / Emerging / Theoretical
-
-Gap_Since_Previous	    Years since last major tech shift
-
-Example_Companies_Tech	e.g., Tesla, OpenAI, Apple, NASA, etc.
-
-
 **🛠️ Tools Used**
 
 💻 Power BI Desktop
