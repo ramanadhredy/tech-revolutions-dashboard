@@ -74,13 +74,6 @@ Easy to search, export, or explore
 No external tools, no coding - just creativity and curiosity.
 
 
-**🔄 How to Explore**
-
-Open the .pbix file in Power BI Desktop
-Use filters to dive into different tech eras
-Hover or click to learn more about each revolution
-Explore the table for real-world examples
-
 **📌 Final Thought**
 
 Technology isn’t just changing - it’s accelerating.
