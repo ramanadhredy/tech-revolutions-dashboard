@@ -36,7 +36,7 @@ technological_revolutions_dashboard.pbix -->	Interactive Power BI file with visu
 100% done in Power BI
 
 
-**📊 Dashboard Pages:**
+**📊 Dashboard Pages**
 
 1️⃣ Timeline View
 
