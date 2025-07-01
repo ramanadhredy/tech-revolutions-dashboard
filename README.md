@@ -4,9 +4,10 @@ From the 🛞 Wheel to 🤖 AI and 🪐 Beyond, this interactive dashboard explo
 
 Built using only Power BI Desktop and a simple .csv file — no code, no external themes — just clean, impactful storytelling with data.
 
+
 **🌟 Why This Project?**
 
-Technology is more than just devices — it’s evolution in motion.
+Technology is more than just devices - it’s evolution in motion.
 
 We hear about breakthroughs all the time, but:
 How often do we see them in one big timeline?
@@ -21,12 +22,14 @@ How fast technology is accelerating over time
 
 It’s not just a dashboard. It’s a data-powered timeline of human creativity.
 
+
 **📁 What’s Included**
 
 Technological_Revolutions_Final.csv	Editable dataset of historical + future tech
 technological_revolutions_dashboard.pbix	Interactive Power BI file with visuals & slicers
 
 100% done in Power BI
+
 
 **📊 Dashboard Pages:**
 
@@ -45,6 +48,7 @@ Complete dataset with filters
 Real-world tech examples like Tesla, ChatGPT, NASA
 Easy to search, export, or explore
 
+
 **📄 Dataset Overview**
 
 Column	                Description
@@ -60,7 +64,7 @@ Example_Companies_Tech	e.g., Tesla, OpenAI, Apple, NASA, etc.
 
 
 
-🛠️ Built With
+**🛠️ Built With**
 
 💻 Power BI Desktop
 
@@ -70,13 +74,14 @@ Example_Companies_Tech	e.g., Tesla, OpenAI, Apple, NASA, etc.
 
 No external tools, no coding — just creativity and curiosity.
 
-🔄 How to Explore
+
+**🔄 How to Explore**
 
 Open the .pbix file in Power BI Desktop
 Use filters to dive into different tech eras
 Hover or click to learn more about each revolution
 Explore the table for real-world examples
 
-📌 Final Thought
+**📌 Final Thought**
 Technology isn’t just changing — it’s accelerating.
 This dashboard shows how far we’ve come… and how fast we’re moving forward.
