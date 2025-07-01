@@ -5,6 +5,7 @@ From the 🛞 Wheel to 🤖 AI and 🪐 Beyond, this interactive dashboard explo
 Built using only Power BI Desktop and a simple .csv file — no code, no external themes — just clean, impactful storytelling with data.
 
 **🌟 Why This Project?**
+
 Technology is more than just devices — it’s evolution in motion.
 
 We hear about breakthroughs all the time, but:
@@ -45,6 +46,7 @@ Real-world tech examples like Tesla, ChatGPT, NASA
 Easy to search, export, or explore
 
 **📄 Dataset Overview**
+
 Column	                Description
 Invention	              The innovation name (e.g., Wheel, Electricity, AI)
 Year	                  Year of invention or forecasted breakthrough
@@ -59,13 +61,17 @@ Example_Companies_Tech	e.g., Tesla, OpenAI, Apple, NASA, etc.
 
 
 🛠️ Built With
+
 💻 Power BI Desktop
+
 📄 .CSV dataset
+
 🎨 All visuals, styling, and interactivity created using native Power BI features
 
 No external tools, no coding — just creativity and curiosity.
 
 🔄 How to Explore
+
 Open the .pbix file in Power BI Desktop
 Use filters to dive into different tech eras
 Hover or click to learn more about each revolution
