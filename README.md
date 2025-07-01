@@ -1,8 +1,8 @@
 # 📊 Timeline of Technological Revolutions - Power BI Dashboard
 
-From the 🛞 Wheel to 🤖 AI and 🪐 Beyond, this interactive dashboard explores how technology has shaped human history — and where it might be heading next.
+From the 🛞 Wheel to 🤖 AI and 🪐 Beyond, this interactive dashboard explores how technology has shaped human history and where it might be heading next.
 
-Built using only Power BI Desktop and a simple .csv file — no code, no external themes — just clean, impactful storytelling with data.
+Built using only Power BI Desktop and a simple .csv file - no code, no external themes - just clean, impactful storytelling with data.
 
 
 **🌟 Why This Project?**
@@ -16,7 +16,7 @@ What if we could predict what’s next?
 This dashboard lets explore:
 When key revolutions happened (or are predicted)
 
-Which sectors they changed — like transport, energy, or communication
+Which sectors they changed - like transport, energy, or communication
 
 How fast technology is accelerating over time
 
@@ -72,7 +72,7 @@ Example_Companies_Tech	e.g., Tesla, OpenAI, Apple, NASA, etc.
 
 🎨 All visuals, styling, and interactivity created using native Power BI features
 
-No external tools, no coding — just creativity and curiosity.
+No external tools, no coding - just creativity and curiosity.
 
 
 **🔄 How to Explore**
